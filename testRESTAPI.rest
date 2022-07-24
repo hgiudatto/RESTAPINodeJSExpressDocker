@@ -1,0 +1,4 @@
+
+### Test GET
+GET http://localhost:3080/foo
+
